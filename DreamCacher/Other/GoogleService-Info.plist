@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCY5cZ3PLgFJV-gkS8h2H9MrPu9Q3g3-Wg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>384678673022</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jasondsouza35.DreamCacher</string>
+	<key>PROJECT_ID</key>
+	<string>dreamcacher-202a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dreamcacher-202a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:384678673022:ios:7b9bdee5529ab4773d362f</string>
+</dict>
+</plist>
